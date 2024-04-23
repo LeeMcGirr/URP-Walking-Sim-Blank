@@ -16,7 +16,7 @@ public class platformControl : MonoBehaviour
         //on start - getting the local scale and stashing it for later
         myScale = transform.localScale;
         xScale = myScale.x;
-        zScale = myScale.z;
+        //zScale = myScale.z;
     }
 
     // Update is called once per frame
